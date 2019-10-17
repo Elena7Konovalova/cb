@@ -1,0 +1,6 @@
+D:\repos\cb\Test\TestApp\TestApp\bin\Debug\TestApp.exe.config
+D:\repos\cb\Test\TestApp\TestApp\bin\Debug\TestApp.exe
+D:\repos\cb\Test\TestApp\TestApp\bin\Debug\TestApp.pdb
+D:\repos\cb\Test\TestApp\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+D:\repos\cb\Test\TestApp\TestApp\obj\Debug\TestApp.exe
+D:\repos\cb\Test\TestApp\TestApp\obj\Debug\TestApp.pdb
