@@ -6,6 +6,8 @@ namespace L1Hello
     {
         static void Main()
         {
+            Console.WriteLine("Hello world");
+            Console.ReadKey();
         }
     }
 }

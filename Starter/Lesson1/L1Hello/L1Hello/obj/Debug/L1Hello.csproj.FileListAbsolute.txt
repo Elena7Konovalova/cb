@@ -1,0 +1,6 @@
+D:\repos\cb\Starter\Lesson1\L1Hello\L1Hello\bin\Debug\L1Hello.exe.config
+D:\repos\cb\Starter\Lesson1\L1Hello\L1Hello\bin\Debug\L1Hello.exe
+D:\repos\cb\Starter\Lesson1\L1Hello\L1Hello\bin\Debug\L1Hello.pdb
+D:\repos\cb\Starter\Lesson1\L1Hello\L1Hello\obj\Debug\L1Hello.csprojAssemblyReference.cache
+D:\repos\cb\Starter\Lesson1\L1Hello\L1Hello\obj\Debug\L1Hello.exe
+D:\repos\cb\Starter\Lesson1\L1Hello\L1Hello\obj\Debug\L1Hello.pdb
