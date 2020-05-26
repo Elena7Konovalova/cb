@@ -1,0 +1,6 @@
+Task:
++ display the result of these astions (+, -, *, /, %), between the numbers 10 and 5;
+
+Plan:
++ create a project "Lesson 1 (2)" (Console App(.NET Framework);
++ using "Console.WriteLine" and "Console.ReadKey"  display the formula.
