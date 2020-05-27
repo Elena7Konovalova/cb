@@ -7,6 +7,7 @@ namespace SumApp
         static void Main()
         {
             Console.WriteLine(10+26);
+            Console.WriteLine("10+26=36");
             Console.ReadKey();
         }
     }
