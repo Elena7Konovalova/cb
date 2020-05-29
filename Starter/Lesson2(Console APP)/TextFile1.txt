@@ -1,0 +1,4 @@
+Task:
++ Create a project based on the Console Application template
++ Create two variables, assing them the values of pi=3,141592653 and e=2,7182818284 590452
++ Display them without loss of accuracy
