@@ -1,1 +1,4 @@
-﻿
+﻿Task
++ Create a project based on the Console Application template
++ Create three string variables
++ Display them without loss of accuracy
