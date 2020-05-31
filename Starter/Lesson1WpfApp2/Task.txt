@@ -1,0 +1,5 @@
+Task
++ Create the project on the wpf aapplication template
++ Add to the form two TextBox controls and one Button control 
++ Write a line of code that will output to TextBox2, a value that the user will enter to TextBox1
+
